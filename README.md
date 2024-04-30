@@ -1,7 +1,3 @@
-# automatic-documentation
-Automatically create documentations from files of a specific folder
----
-
 # Project Documentation Generator 📄
 
 This Python script automates the analysis and summarization of all files within a specified directory, leveraging the Ollama machine learning model to understand and process content efficiently. The output includes two types of documentation files:
